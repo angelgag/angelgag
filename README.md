@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning JavaScript e alguns frameworks (React e React Native)
 <!--
 **angelgag/angelgag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
